@@ -1,0 +1,9 @@
+.aboutme ul,
+.cd-timeline-content ul {
+    list-style: disc !important;
+    padding-left: 18px !important;
+}
+
+.aboutme ul li {
+    line-height: 25px !important;
+}
